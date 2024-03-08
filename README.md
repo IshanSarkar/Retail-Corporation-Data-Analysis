@@ -1,6 +1,6 @@
 # Detail:
 This particular business case focuses on the operations of the Retail store in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews.<br>
-**Platform Used: Mysql**
+**Platform Used: Mysql and Tableau**
 
 ## Business Problem:
 By analyzing this extensive dataset, it becomes possible to gain valuable insights into the Company’s operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.<br>
@@ -16,6 +16,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 - **Time range between which the orders were placed** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/17ab861c-aae2-4791-b70a-c850f16a4ccd)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/d1400bd6-b88a-4293-b3e9-65291c78cb1b)<br>
+  [Tableau link](https://public.tableau.com/views/Timerangebetweenwhichtheorderswereplaced/Timerangebetweenwhichtheorderswereplaced?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) <br>
 - **Count of Cities & States of customers who ordered** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/245325fc-dc5b-424e-9c10-ae89d5a6fb26)<br>
   ![image](https://github.com/IshanSarkar/Retail-Corporation-Data-Analysis/assets/160044904/f3e2be90-d3a6-45e4-9616-c11f72136596)<br>
@@ -24,6 +25,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 - **Growing trend in the no. of orders placed over the past years** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/dca3cdfb-3c62-4a59-9340-af85f4c0dfa2)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/33b7ce3c-f77e-4955-b911-42547827cf5f)<br>
+  [Tableau link](https://public.tableau.com/views/Growingtrendintheno_oforders/GrowingTrendoveryears?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** We can see how many orders have been placed per year from the snapshot, but we cannot compute the percentage rise or compare it year to year because we do not have complete data on orders for the entire years of 2016 and 2018, as some months are missing.
 -  **Monthly seasonality in terms of the no. of orders being placed** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/092ca751-6f4f-417b-a4f8-0fb4d280a24b)<br>
