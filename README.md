@@ -46,19 +46,23 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 - **Customers distribution across all the states** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/6e3a8fd1-3e7a-447e-8861-9d485f888c78)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/cba8fa75-0b65-4781-9779-ddba5d1883f4)<br>
+  [Tableau Link](https://public.tableau.com/views/Customersdistributionacrossallthestates/Customersdistributionacrossallthestates?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** Most of the customers are from Sao Paulo and the lowest number of customers are from Roraima. Note: COUNT(customer_id), COUNT(customer_unique_id), COUNT(DISTINCT(customer_id)) all of them are showing the same results.<br>
 #### Impact on Economy:<br>
 - **% increase in the cost of orders from year 2017 to 2018** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/dbaed51a-d20b-4821-8e1a-1b83447fe44e)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/2c2ccf03-4a6a-452c-8def-de3910371d9d)<br>
-**Insights:** In 2018, there is an increase of 137% in the cost of orders. So, it could mean several meanings like an indication that the prices of the products being ordered have increased, or that customers are ordering more expensive items. It could also suggest that there is an increase in demand for the products being offered, which is driving up the prices.<br> 
+  [Tableau Link](https://public.tableau.com/views/increaseinthecostofordersovertheYears/increaseinthecostofordersovertheYears?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
+**Insights:** In 2018, there was an increase of 137% in the cost of orders. So, it could mean several meanings like an indication that the prices of the products being ordered have increased, or that customers are ordering more expensive items. It could also suggest that there is an increase in demand for the products being offered, which is driving up the prices.<br> 
 - **Total & Average value of order price for each state** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/974e2c2e-5742-4c59-8d4b-92ac9fecd7b6)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/6c7ba1d2-ddec-4cde-b002-4af6d017da4b)<br>
+  [Tableau Link](https://public.tableau.com/views/TotalAveragevalueoforderpriceforeachstate/TotalAveragevalueoforderpriceforeachstate?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** As per the result, Sao Paulo has the highest Total value of order price which is 5202955.05 and Paraiba has the highest average value of order price which is 191.48. This suggests that while Sao Paulo may have a larger volume of orders, the average value of each order in Paraiba is higher.<br>
 - **Total & Average value of order freight for each state** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/9625615a-a7af-4244-b0d3-419da83588b3)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/b51708ae-8cdf-4cad-b4d9-cbe697703fd9)<br>
+  [Tableau Link](https://public.tableau.com/views/TotalAveragevalueoforderfreightforeachstate/TotalAveragevalueoforderfreightforeachstate?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** As per the result, the total cost of shipping or transporting goods for all orders in São Paulo is 718723.07, which is the highest, while the average cost of shipping or transporting goods for each order in Roraima is 42.98, which is the highest.<br>
 #### Analysis based on sales, freight, and delivery time.<br>
 - **No. of days taken to deliver each order from the order’s purchase date as delivery time and the difference (in days) between the estimated & actual delivery date of an order.** <br>
