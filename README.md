@@ -30,15 +30,18 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 -  **Monthly seasonality in terms of the no. of orders being placed** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/092ca751-6f4f-417b-a4f8-0fb4d280a24b)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/5131e10d-06ae-4143-85df-ab41eba7095e)<br>
+  [Tableau link](https://public.tableau.com/views/Monthlyseasonalityintermsoftheno_ofordersbeingplaced/Monthlyseasonalityintermsoftheno_ofordersbeingplaced?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** December 2016 is missing from the data collection. We can observe that the number of orders increased significantly in October 2016 compared to the previous month, but decreased significantly in December of the same year. Because of the forthcoming holiday season in the country, the biggest number of orders in 2017 was in November, and the lowest number of orders was in January. In addition, except the first quarter of 2017, the second month always has the highest number of orders in that quarter, followed by the third month. 2018 began with the highest number of orders in that year, and the number of orders remained very high throughout the year when compared to the previous year's months. The number of orders was extremely low in September and October of 2018.<br>
 - **Frequency of customers placing their orders in a day** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/8c674ba5-b357-4f54-8002-024973720453)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/20d8bf3a-3251-48a2-b319-72a946a9e4cf)<br>
+  [Tableau link](https://public.tableau.com/views/Frequencyofcustomersplacingtheirordersinaday/Frequencyofcustomersplacingtheirordersinaday?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** Customers typically place their orders in the afternoon, followed by the night, morning, and dawn.<br>
 #### Evolution of E-commerce orders in the region<br>
 - **Month on Month no. of orders placed in each state** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/79232531-a135-4626-bce9-ddb32d9815e2)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/566cb611-d2c6-4e3f-891a-8f2ef8dab750)<br>
+  [Tableau link](https://public.tableau.com/views/MonthonMonthno_ofordersplacedineachstate/MonthonMonthno_ofordersplacedineachstate?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:**  The number of orders placed in each state in each month. Also, when compared to the other states, Sao Paulo has the highest number of orders throughout the year, with August 2018 being the peak.<br>
 - **Customers distribution across all the states** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/6e3a8fd1-3e7a-447e-8861-9d485f888c78)<br>
