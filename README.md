@@ -68,27 +68,33 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 - **No. of days taken to deliver each order from the order’s purchase date as delivery time and the difference (in days) between the estimated & actual delivery date of an order.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/9ac77baa-9cab-4660-8e91-dae42a110217)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/fd06d2de-7d07-4ff9-85ae-16a6683b26a3)<br>
+  [Tableau Link](https://public.tableau.com/views/No_ofdaystakentodelivereachorder/No_ofdaystakentodelivereachorder?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** In the ‘diff_estimated_delivery’ column, a negative value indicates how many days it took to deliver the order beyond the estimated delivery date, while a positive value means how early the order has been delivered. Time is measured in days.<br>
 - **Top 5 states with the highest & lowest average freight value** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/c68a0e47-4826-49c1-9563-c6b15e346e2f)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/6b844ad0-92e8-422e-b989-a871011ec747)<br>
+  [Tableau Link](https://public.tableau.com/views/StateswiththeAveragefreightvalue/StateswiththeAveragefreightvalue?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** The first 5 rows show the top 5 states with the lowest average freight value arranged in ascending order (SP<PR<MG<RJ<DF), and the last 5 rows show the top 5 states with the highest average freight value arranged in ascending order(PI<AC<RO<PB<RR).<br>
 - **Top 5 states with the highest & lowest average delivery time.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/019427eb-a40c-4eaa-ba8d-95478b4ce863)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/5a9837cf-18ee-4bb9-9592-f06b58d73fea)<br>
+  [Tableau Link](https://public.tableau.com/views/AvgdaystakentodeliverordersinEachState/AvgdaystakentodeliverordersinEachState?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** The first 5 rows show the top 5 states with the lowest average delivery time arranged in ascending order (SP<PR<MG<DF<RS), and the last 5 rows show the top 5 states with the highest average delivery time arranged in ascending order (PA<AL<AM<AP<RR). Time is measured in days.<br>
 - **Top 5 states where the order delivery is really fast as compared to the estimated date of delivery.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/4fb98912-affb-4b92-a84d-fecf87f33ce0)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/fe18ce18-15ad-4ec4-8c04-1fedb790a10a)<br>
+  [Tableau Link](https://public.tableau.com/views/Stateswheretheorderdeliveryisreallyfastascomparedtotheestimateddateofdelivery/Stateswheretheorderdeliveryisreallyfastascomparedtotheestimateddateofdelivery?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** The values in the ‘average_diff_estimated_delivery’ column is in days and arranged in descending order. Therefore, in the state of Acre, orders are delivered 19 days earlier than the estimated delivery date and the whole table shows the top 5 state where the order delivery is really fast<br>
 #### Analysis based on the payments:<br>
 - **Month on Month no. of orders placed using different payment types.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/9dcae54c-fe5d-4f5c-845e-5fba07722d36)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/cdf3ba8c-7b80-4ad5-9a72-48f656cb7f70)<br>
+  [Tableau Link](https://public.tableau.com/views/MonthonMonthno_ofordersplacedusingdifferentpaymenttypes/MonthonMonthno_ofordersplacedusingdifferentpaymenttypes?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** This table shows the monthly and yearly numbers of orders made using different payment types. From the table, we can see that most orders are made via credit card, followed by UPI.<br> 
 - **No. of orders placed based on the payment installments that have been paid.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/f9e32433-94ea-4b6c-89c4-1c5345409ba7)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/a8d72b14-7ac0-4a24-a162-31c406240665)<br>
+  [Tableau Link](https://public.tableau.com/views/No_ofordersplacedbasedonthepaymentinstallments/No_ofordersplacedbasedonthepaymentinstallments?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)<br>
 **Insights:** From the table we can conclude that most of the orders have been made in a single installment.<br><br>
 ### Overall Summary:<br>
 The analysis of the provided insights reveals significant trends and patterns in the company's operations, encompassing order dynamics, geographic distribution, pricing strategies, shipping costs, and delivery efficiency. The data spans from September 4, 2016, to October 17, 2018, providing a comprehensive view of the company's performance during this period. Notably, there are some missing data points, particularly in December 2016, which limits the ability to make year-to-year comparisons accurately.<br>
